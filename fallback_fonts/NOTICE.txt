@@ -1,0 +1,12 @@
+Copyright (c) Samsung Electronics Co., Ltd. All rights reserved.
+BreezeSans font family is licensed under Apache License, Version 2.
+Please, see the LICENSE.Apache.v2.0 file for Apache License terms and conditions. 
+
+BreezeSansJapanese(Motoyal-Cedar) japanese font is licensed under Apache License, Version 2.
+Please, see the LICENSE.Apache.v2.0 file for Apache License terms and conditions. 
+
+BreezeSansChinese(WenQuanYi-Zen-Hei) chinese font is licensed under GNU General Public License v2 with font embedding exceptions.
+Please, see the LICENSE.GPL.v2 file for GNU General Public License terms and conditions, and see the LICENSE.GPL.FontEmbeddingException for font embeddign exceptions. 
+For commercial use of this font in close-source software, please contact FangQ to request a commercial license. 
+For more detail, please refer weng.org/index.cgi?ZenHei(en)
+
